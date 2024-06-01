@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951899025802",
+    "project_id": "chaldim-minor",
+    "storage_bucket": "chaldim-minor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951899025802:android:c681004d7c88a7b6165873",
+        "android_client_info": {
+          "package_name": "com.app.chaldim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVbElJde8Z499LGDbMHk9rwdfWqLNRLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
